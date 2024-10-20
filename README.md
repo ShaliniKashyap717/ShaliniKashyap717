@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
-- 📫 How to reach me **shalinikashyap717@gmail.com**
+- 📫 How to reach me **23bcs106@nith.ac.in**
 
 - ⚡ Fun fact **My cheeks turn red when I get angry**
 
