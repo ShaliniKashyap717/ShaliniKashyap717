@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,ReactJs,Javascript**
 
 - 📫 How to reach me **23bcs106@nith.ac.in**
 
