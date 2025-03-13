@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinikashyap717&label=Profile%20views&color=0e75b6&style=flat" alt="shalinikashyap717" /> </p>
 
-- 🌱 I’m currently learning **NextJS** and **NodeJs**
+- 🌱 I’m currently learning **NextJS** 
 
-- 💬 Ask me about **HTML,CSS,ReactJs,Javascript**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **23bcs106@nith.ac.in**
 
