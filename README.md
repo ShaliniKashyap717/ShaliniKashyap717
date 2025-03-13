@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Shalini Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
