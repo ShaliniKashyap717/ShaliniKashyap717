@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS** 
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **23bcs106@nith.ac.in**
 
