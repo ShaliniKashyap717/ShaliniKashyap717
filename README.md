@@ -52,6 +52,12 @@
 
 </div>
 
+## 🎖️ SSoC'25 Contributor Badge
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://i.postimg.cc/zfKD1WPk/Contributor-SSOC.png" alt="SSoC 2025 Badge" width="200"/>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
