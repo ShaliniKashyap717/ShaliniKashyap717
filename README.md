@@ -1,4 +1,3 @@
-
 # Hey there! 👋 I'm Shalini Kashyap
 
 <div align="center">
@@ -78,9 +77,6 @@ const shalini = {
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 </div>
-
-### 🔥 Currently Obsessing Over
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=React+%7C+Building+UI+that+slaps+%F0%9F%92%AB;TypeScript+%7C+Type+safety+is+my+love+language+%E2%9D%A4%EF%B8%8F;Node.js+%7C+Backend+beast+mode+activated+%F0%9F%94%A5;Python+%7C+AI+experiments+go+brrr+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
