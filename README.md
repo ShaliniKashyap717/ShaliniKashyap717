@@ -2,24 +2,23 @@
 
 <div align="center">
   
-###  Full-Stack Dev |  AI/ML Enthusiast | Code Wizard from India
+### Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer 
 
-*Building the future, one commit at a time* ✨
+*Building the future, one commit at a time*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;MERN+Stack+Expert+%E2%9A%A1;NextJS+Learner+%F0%9F%93%9A;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
-</div>
-
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinikashyap717&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
-## 🌟 About Me (But Make It Interesting)
+</div>
 
+<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+## 🌟 About Me
 ```javascript
 const shalini = {
   currentlyLearning: ["NextJS", "Advanced AI/ML", "Cloud Architecture"],
-  askMeAbout: ["MERN Stack", "Machine Learning", "Full Stack Magic"],
+  askMeAbout: ["MERN Stack", "Machine Learning", "Full Stack Development"],
   contact: "23bcs106@nith.ac.in",
   funFact: "My cheeks turn red when I get angry 🔥",
   motto: "Code it till you make it! 💪",
@@ -28,17 +27,17 @@ const shalini = {
 ```
 
 ### 🎯 What I'm Up To
-- 🔥 Building mind-blowing full-stack applications
-- 🤖 Training AI models that don't take over the world (yet)
-- 📚 Currently diving deep into **NextJS** 
+- 🔥 Building innovative full-stack applications
+- 🤖 Training AI models that (hopefully) don't take over the world
+- 📚 Deep diving into **NextJS** and modern web architecture
 - 💡 Always brewing new project ideas with ☕
 - 🎮 Turning coffee into code since forever
 
-## 🌈 Let's Connect & Vibe!
+## 🌈 Let's Connect!
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@shaliniiikashyap)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shaliniiikashyap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-kashyap-nith)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23bcs106@nith.ac.in)
 
@@ -49,17 +48,17 @@ const shalini = {
 <div align="center">
 
 ### 🎨 Frontend Development
-Building beautiful, responsive interfaces that users love
+*Building beautiful, responsive interfaces that users love*
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery" alt="Frontend Technologies" />
 
 ### ⚙️ Backend & Systems
-Crafting robust, scalable server-side solutions
+*Crafting robust, scalable server-side solutions*
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,cpp,c" alt="Backend Technologies" />
 
 ### 🤖 AI & Machine Learning
-Leveraging data science and ML to build intelligent systems
+*Leveraging data science and ML to build intelligent systems*
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,13 +68,13 @@ Leveraging data science and ML to build intelligent systems
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💾 Databases & Storage
-Managing and structuring data efficiently
+*Managing and structuring data efficiently*
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎯 Design & Development Tools
-From concept to deployment
+*From concept to deployment*
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -89,50 +88,58 @@ From concept to deployment
 
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/shalinikashyap717">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikashyap717&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
-## 📊 GitHub Analytics
+## 🎖️ Open Source Contributions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikashyap717&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-
-</div>
-
-## 🎖️ Achievements
-
 ### GSSoC'24 Badges
-<div style="display: flex; align-items:center; gap: 10px;" align="center">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
 
 ### SSoC'25 Contributor
 <img src="https://i.postimg.cc/zfKD1WPk/Contributor-SSOC.png" alt="SSoC 2025 Badge" width="200"/>
 
+</div>
+
 ## 💭 Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎵 Currently Vibing To: *Lo-fi beats while debugging* 🎧
+### 🎵 Currently Vibing To
+*Lo-fi beats while debugging* 🎧
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
@@ -140,8 +147,12 @@ From concept to deployment
 
 </div>
 
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaliniKashyap717/ShaliniKashyap717/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaliniKashyap717/ShaliniKashyap717/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ShaliniKashyap717/ShaliniKashyap717/output/github-snake.svg" />
 </picture>
+
+</div>
