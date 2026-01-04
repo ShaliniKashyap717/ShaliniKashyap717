@@ -44,47 +44,70 @@ const shalini = {
 
 </div>
 
-## 🛠️ My Tech Arsenal ✨
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💫 The Frontend Universe
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery" />
+### 🎨 Frontend Development
+Building beautiful, responsive interfaces that users love
 
-### 🚀 Backend Powerhouse  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery" alt="Frontend Technologies" />
 
-### 🧠 AI/ML Wizardry
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+### ⚙️ Backend & Systems
+Crafting robust, scalable server-side solutions
 
-### 🗃️ Database Magic
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,cpp,c" alt="Backend Technologies" />
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+### 🤖 AI & Machine Learning
+Leveraging data science and ML to build intelligent systems
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 💾 Databases & Storage
+Managing and structuring data efficiently
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎯 Design & Development Tools
+From concept to deployment
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements
 
-## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shalinikashyap717&theme=dracula&hide_border=false)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikashyap717&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
 
 ## 🎖️ Achievements
 
