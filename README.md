@@ -87,7 +87,7 @@ const shalini = {
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -103,11 +103,11 @@ const shalini = {
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+-->
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+<!-- </div> -->
 
 ## 🎖️ Open Source Contributions
 
