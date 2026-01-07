@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Shalini Kashyap
+# Hey there! I'm Shalini Kashyap
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
 *Building the future, one commit at a time*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;MERN+Stack+Expert+%E2%9A%A1;NextJS+Learner+%F0%9F%93%9A;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Expert;NextJS+Learner;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinikashyap717&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
@@ -14,26 +14,26 @@
 
 <img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-## 🌟 About Me
+## About Me
 ```javascript
 const shalini = {
   currentlyLearning: ["NextJS", "Advanced AI/ML", "Cloud Architecture"],
   askMeAbout: ["MERN Stack", "Machine Learning", "Full Stack Development"],
   contact: "23bcs106@nith.ac.in",
-  funFact: "My cheeks turn red when I get angry 🔥",
-  motto: "Code it till you make it! 💪",
-  currentMood: "Debugging life, one error at a time 🐛"
+  funFact: "My cheeks turn red when I get angry",
+  motto: "Code it till you make it!",
+  currentMood: "Debugging life, one error at a time"
 };
 ```
 
-### 🎯 What I'm Up To
-- 🔥 Building innovative full-stack applications
-- 🤖 Training AI models that (hopefully) don't take over the world
-- 📚 Deep diving into **NextJS** and modern web architecture
-- 💡 Always brewing new project ideas with ☕
-- 🎮 Turning coffee into code since forever
+### What I'm Up To
+- Building innovative full-stack applications
+- Training AI models that (hopefully) don't take over the world
+- Deep diving into **NextJS** and modern web architecture
+- Always brewing new project ideas with coffee
+- Turning coffee into code since forever
 
-## 🌈 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -43,21 +43,21 @@ const shalini = {
 
 </div>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 *Building beautiful, responsive interfaces that users love*
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery" alt="Frontend Technologies" />
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 *Crafting robust, scalable server-side solutions*
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,cpp,c" alt="Backend Technologies" />
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 *Leveraging data science and ML to build intelligent systems*
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -65,15 +65,14 @@ const shalini = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 💾 Databases & Storage
+### Databases & Storage
 *Managing and structuring data efficiently*
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎯 Design & Development Tools
+### Design & Development Tools
 *From concept to deployment*
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -84,32 +83,19 @@ const shalini = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-<!--
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<a href="https://github.com/shalinikashyap717">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikashyap717&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikashyap717&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shalinikashyap717&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
--->
 
 
-<!-- </div> -->
+### Activity Graph
+[![Shalini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalinikashyap717&theme=react-dark&hide_border=true&area=true)](https://github.com/shalinikashyap717)
 
-## 🎖️ Open Source Contributions
+</div>
+
+
+
+## Open Source Contributions
 
 <div align="center">
 
@@ -126,7 +112,7 @@ const shalini = {
 
 </div>
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -138,12 +124,12 @@ const shalini = {
 
 <div align="center">
 
-### 🎵 Currently Vibing To
-*Lo-fi beats while debugging* 🎧
+### Currently Vibing To
+*Lo-fi beats while debugging*
 
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+**Thanks for stopping by! Let's build something amazing together!**
 
-*P.S. - Yes, I do indeed turn red when angry. It's like a built-in error indicator! 😅*
+*P.S. - Yes, I do indeed turn red when angry. It's like a built-in error indicator! (>_<)*
 
 </div>
 
