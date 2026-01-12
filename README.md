@@ -17,7 +17,7 @@
 ## About Me
 ```javascript
 const shalini = {
-  currentlyLearning: ["NextJS", "Advanced AI/ML", "Cloud Architecture"],
+  currentlyLearning: ["Java", "Advanced AI/ML", "Cloud Architecture"],
   askMeAbout: ["MERN Stack", "Machine Learning", "Full Stack Development"],
   contact: "23bcs106@nith.ac.in",
   funFact: "My cheeks turn red when I get angry",
@@ -29,7 +29,7 @@ const shalini = {
 ### What I'm Up To
 - Building innovative full-stack applications
 - Training AI models that (hopefully) don't take over the world
-- Deep diving into **NextJS** and modern web architecture
+- Deep diving into modern web architecture and system design
 - Always brewing new project ideas with coffee
 - Turning coffee into code since forever
 
