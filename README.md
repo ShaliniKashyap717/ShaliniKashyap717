@@ -6,7 +6,7 @@
 
 *Building the future, one commit at a time*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Developer;Competitive Programmer;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Developer;Competitive+Programmer;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinikashyap717&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
